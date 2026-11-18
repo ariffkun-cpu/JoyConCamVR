@@ -1,2 +1,2 @@
 # JoyConCamVR
-webcam to track vr
+webcam to track joycons and stuff
